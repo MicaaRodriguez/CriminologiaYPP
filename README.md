@@ -1,20 +1,24 @@
-# Criminología YPP
+# 🕵️ Criminología YPP
 
 Sitio web desarrollado como proyecto final del programa **Yo Puedo Programar**, enfocado en la divulgación de contenidos relacionados con la criminología.
 
-## Tecnologías
+## 🚀 Tecnologías utilizadas
 
 - HTML5
 - CSS3
 - JavaScript
 
-## Características
+## ✨ Características
 
-- Diseño responsive
-- Navegación intuitiva
-- Contenido informativo sobre criminología
-- Interfaz desarrollada con buenas prácticas de HTML y CSS
+- Diseño responsive.
+- Navegación intuitiva.
+- Contenido informativo sobre criminología.
+- Interfaz desarrollada aplicando buenas prácticas de HTML y CSS.
 
-## Autora
+## 🎯 Objetivo
 
-Micaela Rodríguez
+El objetivo de este proyecto fue aplicar los conocimientos adquiridos durante el programa **Yo Puedo Programar**, desarrollando un sitio web funcional, responsive y con una temática de interés personal.
+
+## 👩‍💻 Autora
+
+**Micaela Rodríguez**
